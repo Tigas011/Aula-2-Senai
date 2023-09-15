@@ -1,12 +1,12 @@
 # Exercício 1: Verificação de Número Positivo
 
-# n1 = float(input("Digite um número "))
-# if n1 > 0:
-#     print("O número {} é positivo.".format(n1))
-# elif n1 < 0:
-#     print("O número {} é negativo".format(n1))
-# else:
-#     print ("O número {} é zero".format(n1))
+n1 = float(input("Digite um número "))
+if n1 > 0:
+     print("O número {} é positivo.".format(n1))
+elif n1 < 0:
+     print("O número {} é negativo".format(n1))
+else:
+     print ("O número {} é zero".format(n1))
 
 
 # Exercício 2: Classificação de Triângulos
