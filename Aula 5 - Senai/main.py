@@ -74,3 +74,31 @@ numeros = list(range(1, 11))
 media = sum(numeros) / len(numeros)
 print(media)
 
+Novos exercícios
+# Exercício 1: Escreva um programa que use a função range() para gerar os números pares de 2 a 20 e, em seguida, imprima cada número.
+
+numeros = range(2,21,2)
+print(sum(numeros/10):
+      print(i)
+
+# Exercício 2: Escreva um programa que imprima os números pares de 2 a 20.
+
+numeros = range(2,21,2)
+for i in numeros:
+      print(i)
+
+# Exercício 3: Escreva um programa que calcule a soma dos números de 1 a 100.
+ numeros = list(range(1, 101))
+ media = sum(numeros)
+ print(media)
+
+# Exercício 4: Escreva um programa que imprima os múltiplos de 5 de 5 a 50.
+
+for i in range(5, 51, 5):
+   print(i)
+
+# Exercício 5: Escreva um programa que peça ao usuário para digitar seu nome e imprima cada caractere do nome em uma linha separada.
+
+nome = input("Digite seu nome: ")
+for i in range(len(nome)):
+  print(nome[i])
