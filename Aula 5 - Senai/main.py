@@ -74,7 +74,7 @@ numeros = list(range(1, 11))
 media = sum(numeros) / len(numeros)
 print(media)
 
-Novos exercícios
+# Novos exercícios
 # Exercício 1: Escreva um programa que use a função range() para gerar os números pares de 2 a 20 e, em seguida, imprima cada número.
 
 numeros = range(2,21,2)
