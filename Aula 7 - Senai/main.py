@@ -136,3 +136,9 @@ if __name__ == "__main__":
 # Os loops aninhados continuarão a executar até que todas as combinações de multiplicação de 1 a 10 tenham sido impressas.
 # O resultado final será a tabuada de multiplicação completa do 1 ao 10, com todas as equações e resultados impressos na saída.
 
+# Exercício 4: Números ímpares reversos. Exiba uma contagem regressiva de números ímpares de 99 a 1.
+
+# numero = 99
+# while numero >= 1:
+# print(numero)
+# numero -= 2**
