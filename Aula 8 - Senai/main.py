@@ -217,5 +217,5 @@ def calculadora():
     else:
         print("Opção inválida")
 calculadora ()
-escolha = input("Digite o número da operação desejada: ")
+print("Selecione uma operação:")
 calculadora()
