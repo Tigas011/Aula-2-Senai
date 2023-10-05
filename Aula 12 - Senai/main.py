@@ -50,3 +50,40 @@
 # produto = reduce(lambda x,y: x * y, list)
 # print(produto)
 
+# ------------------------------------------------------------------------------------------------------
+
+# x = {1, 2, 3, 4}
+# d = {3, 4, 5, 6}
+
+# print(x.difference(d))
+# print(d.difference(x))
+
+# frutas = {'morango', 'melão'}
+# frutas.add('uva')
+# print(frutas)
+
+# frutas.remove('uva')
+# frutas.discard('melao')
+# print(frutas)
+
+# frutas = {'uva', 'maça', 'banana'}
+
+# if 'uva' in frutas:
+#     print('tem uva')
+# else:
+#     print('Não tem')
+
+# frutas = {'uva', 'maça', 'banana'}
+# f=[1,2,5]
+# g = frutas.union(f)
+# print(g)
+
+# numeros = set([20,33,4,5,7])
+# print(numeros)
+
+# conjunto1 = [2,3,6,5]
+# conjunto2 = [0,56,46,26]
+
+# for conjunto1 in conjunto2:
+#     print(conjunto2)
+
