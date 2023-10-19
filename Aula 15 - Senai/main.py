@@ -113,6 +113,51 @@ projetos maiores.
 # # Imprime o resultado
 # print("O seno de {} graus é {}.".format(angulo, seno))
 
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+DESAFIO: 
+CRIE UM MÓDULO QUE SEJA CAPAZ DE FAZER A OPERAÇÃO DE UM BANCO. A PRINCIPIO APENAS SAQUES E DEPOSITO
+   
+# Módulo de banco
+
+# class Conta:
+
+#     def __init__(self, numero, titular, saldo):
+#         self.numero = numero
+#         self.titular = titular
+#         self.saldo = saldo
+
+#     def sacar(self, valor):
+#         if valor > self.saldo:
+#             raise ValueError("Saldo insuficiente.")
+
+#         self.saldo -= valor
+
+#     def depositar(self, valor):
+#         self.saldo += valor
+
+
+# def main():
+#     # Cria uma conta
+#     conta = Conta("1234-5678", "Fulano de Tal", 1000.00)
+
+#     # Realiza um saque
+#     conta.sacar(500.00)
+
+#     # Imprime o saldo
+#     print(conta.saldo)
+
+#     # Realiza um depósito
+#     conta.depositar(200.00)
+
+#     # Imprime o saldo
+#     print(conta.saldo)
+
+
+# if __name__ == "__main__":
+#     main()
+
+
 
 
 
