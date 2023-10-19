@@ -78,39 +78,39 @@ projetos maiores.
 
 # import math
 
-# # Solicita um número decimal ao usuário
+# Solicita um número decimal ao usuário
 # x = float(input("Digite um número decimal: "))
 
 # # Calcula o valor absoluto do número
 # abs = math.fabs(x)
 
-# # Imprime o resultado
+# Imprime o resultado
 # print("O valor absoluto de {} é {}.".format(x, abs))
 
 # Exercício 3: Arredonde um número decimal inserido pelo usuário para o inteiro mais próximo usando o módulo math
 
 # import math
 
-# # Solicita um número decimal ao usuário
+# Solicita um número decimal ao usuário
 # x = float(input("Digite um número decimal: "))
 
-# # Arredonda o número para o inteiro mais próximo
+# Arredonda o número para o inteiro mais próximo
 # arredondamento = math.floor(x + 0.5)
 
-# # Imprime o resultado
+# Imprime o resultado
 # print("O arredondamento de {} é {}.".format(x, arredondamento))
 
 # Exercício 4: Calcule o seno de um ângulo em graus inserido pelo usuário usando o módulo math.
 
 # import math
 
-# # Solicita um ângulo em graus ao usuário
+# Solicita um ângulo em graus ao usuário
 # angulo = float(input("Digite um ângulo em graus: "))
 
 # # Calcula o seno do ângulo
 # seno = math.sin(math.radians(angulo))
 
-# # Imprime o resultado
+# Imprime o resultado
 # print("O seno de {} graus é {}.".format(angulo, seno))
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
