@@ -30,10 +30,41 @@ Dados são as informações a serem processadas por um computador
 
 
 
+# Exercício 1  -  CRIE UM SISTEMA QUE SOME 2  NUMEROS
 
-num1 = float(input("Digite o primeiro número: "))
-num2 = float(input("Digite o segundo número: "))
+# num1 = float(input("Digite o primeiro número: "))
+# num2 = float(input("Digite o segundo número: "))
 
-soma = num1 + num2
+# soma = num1 + num2
 
-print(f"A soma de {num1} e {num2} é igual a {soma}")
+# print(f"A soma de {num1} e {num2} é igual a {soma}")
+
+# Exercício 2 - CRIE UM SISTEMA QUE IMPRIMA SEU NOME NA TELA 
+# nome = "Thiago"
+
+# print(nome)
+
+# Exercício 3 - CRIE UM SISTEMA QUE IMPRIMA SEU NOME E UM CUMPRIMENTO APÓS nome(CONCATENE)
+
+# nome = "Thiago"
+# cumprimento = "Olá"
+
+# print(f"{cumprimento} {nome}")
+
+# Exercício 4 - CRIE UM SISTEMA QUE MULTIPLIQUE 2 NÚMEROS
+
+# numero_1 = 10
+# numero_2 = 2
+
+# resultado = numero_1 * numero_2
+
+# print(f"O resultado da multiplicação é: {resultado}")
+
+
+
+
+
+
+
+
+
